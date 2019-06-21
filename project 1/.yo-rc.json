@@ -9,7 +9,7 @@
     "baseName": "jhipsterexampleone",
     "packageName": "com.tutorials.abdul",
     "packageFolder": "com/tutorials/abdul",
-    "serverPort": "8080",
+    "serverPort": "8081",
     "authenticationType": "jwt",
     "cacheProvider": "ehcache",
     "enableHibernateCache": true,
