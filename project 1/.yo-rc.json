@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.tutorials.abdul",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterexampleone",
+    "packageName": "com.tutorials.abdul",
+    "packageFolder": "com/tutorials/abdul",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2Q4NTUxOGQxYmFhYTQ5YjhiYTJkOWVhNzNjMGM4NzIzOTJhNjE4ZTY0YjdmOTE1ZmJlN2ZiNzM5NDMzY2NmOTdkNWVkNmQ1OTAxOTI4Njg0NzRmNmYxYjlkMTU1NGQ4NTI5NzA2MGY5NDc3OTcyZmMwNzU2ZmQ5MTkzZTcyYzQ=",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "light",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
