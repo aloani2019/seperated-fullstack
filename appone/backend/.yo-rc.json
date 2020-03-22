@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.abdul.apponebackend",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "apponebackend",
+    "packageName": "com.abdul.apponebackend",
+    "packageFolder": "com/abdul/apponebackend",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTk0Y2VhZDY0NjUzYWIyMjlmNjU1OGY0YzFmYjRlYmQ0MWE4NTliMjkzZjVjNGJjMWU4NDA2NjUzZTZmYTQ3N2FmNjAxODJlZjdmZjg2NTI0YzIwYTk0YTQyN2EzNjRlMDYwMTZiMjk1ZWExNmNlZmM5MTVjZDE3NGE2YjkyMTc=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly"
+    ],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
