@@ -1,6 +1,6 @@
 {
   "*": {
-    "target": "http://beckend-test-seperated-full-stack.192.168.100.118.nip.io/:8089",
+    "target": "http://localhost:8080",
     "secure": false,
     "loglevel": "debug"
   }
