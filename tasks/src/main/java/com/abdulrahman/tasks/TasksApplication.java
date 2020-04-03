@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 import org.springframework.context.annotation.Bean;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 @SpringBootApplication(exclude = { SecurityAutoConfiguration.class })
 public class TasksApplication {
